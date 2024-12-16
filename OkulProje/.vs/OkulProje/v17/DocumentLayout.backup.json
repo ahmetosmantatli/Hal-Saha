@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|c:\\users\\ahmet\\source\\repos\\okulproje\\okulproje\\sahakontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|solutionrelative:okulproje\\sahakontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|c:\\users\\ahmet\\source\\repos\\okulproje\\okulproje\\frmkarsilasmaekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|solutionrelative:okulproje\\frmkarsilasmaekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|c:\\users\\ahmet\\source\\repos\\okulproje\\okulproje\\frmanaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|solutionrelative:okulproje\\frmanaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|c:\\users\\ahmet\\source\\repos\\okulproje\\okulproje\\sahakontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|solutionrelative:okulproje\\sahakontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|c:\\users\\ahmet\\source\\repos\\okulproje\\okulproje\\frmanaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|solutionrelative:okulproje\\frmanaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|C:\\Users\\AHMET\\source\\repos\\OkulProje\\okulproje\\frmkarsilasmaekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEFD36C5-0CB3-400D-8338-64B1DEEDC8BD}|OkulProje\\OkulProje.csproj|solutionrelative:okulproje\\frmkarsilasmaekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 252,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 148,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SahaKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\SahaKontrol.cs",
+              "RelativeDocumentMoniker": "OkulProje\\SahaKontrol.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\SahaKontrol.cs",
+              "RelativeToolTip": "OkulProje\\SahaKontrol.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwB0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:46:26.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAnaEkran.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\frmAnaEkran.cs",
+              "RelativeDocumentMoniker": "OkulProje\\frmAnaEkran.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\frmAnaEkran.cs",
+              "RelativeToolTip": "OkulProje\\frmAnaEkran.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAywKUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:49:46.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SahaKontrol.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\SahaKontrol.cs",
+              "RelativeDocumentMoniker": "OkulProje\\SahaKontrol.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\SahaKontrol.cs [Design]",
+              "RelativeToolTip": "OkulProje\\SahaKontrol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:34:27.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAnaEkran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\frmAnaEkran.cs",
+              "RelativeDocumentMoniker": "OkulProje\\frmAnaEkran.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\frmAnaEkran.cs [Design]",
+              "RelativeToolTip": "OkulProje\\frmAnaEkran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:31:52.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmKarsilasmaEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\frmKarsilasmaEkrani.cs",
+              "RelativeDocumentMoniker": "OkulProje\\frmKarsilasmaEkrani.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\frmKarsilasmaEkrani.cs",
+              "RelativeToolTip": "OkulProje\\frmKarsilasmaEkrani.cs",
+              "ViewState": "AgIAAPEBAAAAAAAAAAAAAFkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:00:09.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmKarsilasmaEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\frmKarsilasmaEkrani.cs",
+              "RelativeDocumentMoniker": "OkulProje\\frmKarsilasmaEkrani.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\OkulProje\\OkulProje\\frmKarsilasmaEkrani.cs [Design]",
+              "RelativeToolTip": "OkulProje\\frmKarsilasmaEkrani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:10:24.587Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
